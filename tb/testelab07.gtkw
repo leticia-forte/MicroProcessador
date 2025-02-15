@@ -1,0 +1,57 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Feb 06 20:25:57 2025
+[*]
+[dumpfile] "C:\GHDL\bin\VHDL_arq_comp\tb\processador_tb.vcd"
+[savefile] "C:\GHDL\bin\VHDL_arq_comp\tb\testelab07.gtkw"
+[timestart] 144620000
+[size] 1536 801
+[pos] -191 -191
+*-23.778328 205000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] processador_tb.
+[treeopen] processador_tb.uut.
+[sst_width] 197
+[signals_width] 279
+[sst_expanded] 1
+[sst_vpaned_height] 224
+@25
+processador_tb.pc_s[17:0]
+@c00022
+processador_tb.instrucao[17:0]
+@28
+(0)processador_tb.instrucao[17:0]
+(1)processador_tb.instrucao[17:0]
+(2)processador_tb.instrucao[17:0]
+(3)processador_tb.instrucao[17:0]
+(4)processador_tb.instrucao[17:0]
+(5)processador_tb.instrucao[17:0]
+(6)processador_tb.instrucao[17:0]
+(7)processador_tb.instrucao[17:0]
+(8)processador_tb.instrucao[17:0]
+(9)processador_tb.instrucao[17:0]
+(10)processador_tb.instrucao[17:0]
+(11)processador_tb.instrucao[17:0]
+(12)processador_tb.instrucao[17:0]
+(13)processador_tb.instrucao[17:0]
+(14)processador_tb.instrucao[17:0]
+(15)processador_tb.instrucao[17:0]
+(16)processador_tb.instrucao[17:0]
+(17)processador_tb.instrucao[17:0]
+@1401200
+-group_end
+@22
+processador_tb.uut.acumulador.registro[15:0]
+processador_tb.uut.bancoregistradores.mux3[15:0]
+processador_tb.uut.bancoregistradores.mux4[15:0]
+processador_tb.uut.bancoregistradores.mux5[15:0]
+processador_tb.uut.bancoregistradores.mux6[15:0]
+processador_tb.uut.memoram.dado_in[15:0]
+processador_tb.uut.memoram.endereco[6:0]
+processador_tb.uut.memoram.dado_out[15:0]
+processador_tb.uut.unidadelogicaa.a[15:0]
+processador_tb.uut.unidadelogicaa.b[15:0]
+processador_tb.uut.unidadelogicaa.resultado[15:0]
+processador_tb.uut.unidadelogicaa.resultado_s[15:0]
+processador_tb.uut.unidadelogicaa.registrador_soma[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

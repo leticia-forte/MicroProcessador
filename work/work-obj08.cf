@@ -1,0 +1,46 @@
+v 4
+file "C:\GHDL\bin\VHDL_arq_comp\" "tb/processador_tb.vhd" "d370fb0475012d4aecb01150ebdd1656c55f45d9" "20250213201459.004":
+  entity processador_tb at 1( 0) + 0 on 39;
+  architecture a_processador_tb of processador_tb at 8( 130) + 0 on 40;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/ADICIONAR.vhd" "2770c73e40ca5eea452b02626c75c4b5280b81e6" "20250213201458.946":
+  entity adicionar at 1( 0) + 0 on 11;
+  architecture struct of adicionar at 15( 335) + 0 on 12;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/bancoReg.vhd" "480b7325b5e79c680592a7f71a7d9b13381dfbf1" "20250213201458.948":
+  entity bancoreg at 1( 0) + 0 on 13;
+  architecture a_bancoreg of bancoreg at 18( 480) + 1 on 14;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/ffp_flags.vhd" "39691d26c71aef584daf1478bce95aced6e99770" "20250213201458.950":
+  entity ffp_flags at 1( 0) + 0 on 15;
+  architecture a_ffp_flags of ffp_flags at 13( 290) + 0 on 16;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/MaquinaEstados.vhd" "8b3e110c49398c0f88e76a647de5e4ce0541e78f" "20250213201458.952":
+  entity maquinaestados at 1( 0) + 0 on 17;
+  architecture a_maquinaestados of maquinaestados at 10( 200) + 1 on 18;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/MUX4x1.vhd" "85eb28181e38f49a03d4ec5fc709b2cf896e6d04" "20250213201458.953":
+  entity mux4x1 at 1( 0) + 0 on 19;
+  architecture a_mux4x1 of mux4x1 at 14( 368) + 1 on 20;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/MUX8x1_16bits.vhd" "68ae863c2a557eabae1833419654df4ae1b3c69c" "20250213201458.955":
+  entity mux8x1_16bits at 1( 0) + 0 on 21;
+  architecture a_mux8x1_16bits of mux8x1_16bits at 12( 383) + 1 on 22;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/PC_1.vhd" "acbb38e99bc01c03afc59ba1376a3c0f967b3764" "20250213201458.957":
+  entity pc_1 at 1( 0) + 0 on 23;
+  architecture struct of pc_1 at 17( 443) + 1 on 24;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/processador.vhd" "3c77315cd493011f4a70904e9d1b4d9fab73f2ea" "20250213201458.960":
+  entity processador at 1( 0) + 0 on 25;
+  architecture a_processador of processador at 19( 536) + 0 on 26;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/ram.vhd" "8e38b5108da87175e7c96284c1a06787fa602892" "20250213201458.961":
+  entity ram at 1( 0) + 0 on 27;
+  architecture a_ram of ram at 15( 333) + 0 on 28;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/reg16bits.vhd" "1876642b5d74dfbfb5727d36a54c9ef4aacafd40" "20250213201458.963":
+  entity reg16bits at 1( 0) + 0 on 29;
+  architecture a_reg16bits of reg16bits at 13( 314) + 0 on 30;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/reg18bits.vhd" "f2a79829a2325fe98044fea67e41a1b9e2291146" "20250213201458.965":
+  entity reg18bits at 1( 0) + 0 on 31;
+  architecture a_reg18bits of reg18bits at 13( 314) + 0 on 32;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/ROM.vhd" "1449f87c4051eed48387ca1dd5dda0f5f40bd02f" "20250213201458.967":
+  entity rom at 1( 0) + 0 on 33;
+  architecture a_rom of rom at 14( 260) + 0 on 34;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/ULA.vhd" "2d20d0b67dd046f411f9f5e2271d5c75b2cbf227" "20250213201458.969":
+  entity ula at 1( 0) + 0 on 35;
+  architecture unidadearitmetica of ula at 15( 495) + 0 on 36;
+file "C:\GHDL\bin\VHDL_arq_comp\" "src/UnidadeControle.vhd" "f0c11c45b3878f79d7cc47ea404c79d3d645d83a" "20250213201458.972":
+  entity unidadecontrole at 1( 0) + 0 on 37;
+  architecture a_unidadecontrole of unidadecontrole at 40( 1242) + 0 on 38;

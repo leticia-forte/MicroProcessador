@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Feb 13 05:07:33 2025
+[*]
+[dumpfile] "C:\GHDL\bin\VHDL_arq_comp\tb\processador_tb.vcd"
+[savefile] "C:\GHDL\bin\VHDL_arq_comp\tb\testefinal.gtkw"
+[timestart] 3953300000
+[size] 1536 801
+[pos] -87 -87
+*-24.612839 8295200000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] processador_tb.
+[treeopen] processador_tb.uut.
+[treeopen] processador_tb.uut.bancoregistradores.
+[sst_width] 197
+[signals_width] 264
+[sst_expanded] 1
+[sst_vpaned_height] 168
+@25
+processador_tb.pc_s[17:0]
+@24
+processador_tb.uut.memoram.endereco[6:0]
+processador_tb.uut.memoram.dado_in[15:0]
+@22
+processador_tb.uut.memoram.dado_out[15:0]
+@28
+processador_tb.uut.registrador_instrucao.registro[17:0]
+@24
+processador_tb.uut.ffp_negativo.registro
+@28
+processador_tb.uut.memoram.wr_en
+@22
+processador_tb.uut.unidadelogicaa.registrador_subtracao[15:0]
+@24
+processador_tb.uut.unidadelogicaa.a[15:0]
+processador_tb.uut.unidadelogicaa.b[15:0]
+processador_tb.uut.bancoregistradores.mux1[15:0]
+processador_tb.uut.bancoregistradores.mux2[15:0]
+processador_tb.uut.bancoregistradores.mux3[15:0]
+processador_tb.uut.bancoregistradores.mux4[15:0]
+processador_tb.uut.acumulador.registro[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
